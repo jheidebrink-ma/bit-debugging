@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# PHP / Composer
+/vendor/
+composer.phar
+
+# Environment & logs
+.env
+.env.*
+*.log
