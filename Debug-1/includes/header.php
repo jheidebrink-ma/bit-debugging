@@ -24,7 +24,7 @@ $activePage = $activePage ?? 'home';
 					<a class="nav-link<?= $activePage === 'home' ? ' active' : ''; ?>" href="index.php">Home</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link<?= $activePage === 'info' ? ' active' : ''; ?>" href="info.php">Info</a>
+					<a class="nav-link<?= $activePage === 'informatie' ? ' active' : ''; ?>" href="info.php">Info</a>
 				</li>
 			</ul>
 		</div>
