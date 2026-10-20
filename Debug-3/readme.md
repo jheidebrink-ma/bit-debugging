@@ -8,6 +8,12 @@ Dit is een nieuws website waarbij de laatste nieuws items van de NOS feed worden
 - Op de index pagina moet een overzicht van 5 berichten weergegeven worden. 
 - Op de index pagina moet van elk bericht maximaal 100 karakters van de inhoud getoond worden.
 - De vormgeving uit de style.css moet ingeladen worden.
+
+## De huidige problemen
+- De berichten worden niet weergegeven, ik zie alleen witte blokken.
+- Er moeten 5 verschillende berichten worden weergegeven met live informatie uit de nos-feed, maar er wordt er maar 1 weergegeven. 
+- De titels van de berichten zijn leeg, ik zie de teksten niet.
+- ALs ik op de info pagina ben dan is dit menu item niet actief.
 - In de html zie ik bovenaan nog een aantal lege regels staan, denk je dat je die kunt verwijderen?
 
 <hr>

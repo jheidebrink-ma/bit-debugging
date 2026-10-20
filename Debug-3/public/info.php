@@ -9,14 +9,12 @@ require_once ROOT_PATH . 'includes/header.php';
 		<div class="col-lg-8">
 			<div class="card shadow-sm border-0">
 				<div class="card-body p-4 p-lg-5">
-					<h1 class="card-title mb-3">De problemen</h1>
+					<h1 class="card-title mb-3">De info pagina</h1>
                     <p class="card-text">
-                        Op deze site vind je een aantal dingen die niet goed werken. <br>
-                        <ul>
-                            <li>De berichten worden niet weergegeven, ik zie alleen witte blokken.</li>
-                            <li>Er moeten 5 verschillende berichten worden weergegeven, maar er wordt er maar 1 weergegeven.</li>
-                            <li>De titels van de berichten zijn leeg, ik zie de teksten niet.</li>
-                        </ul>
+                        Dit is mijn info pagina. <br>
+                        Hier kan je informatie vinden over de website werkt. De maak gebruik van PHP, HTML, CSS en JavaScript. <br>
+                        De site haalt nieuwsberichten op van de NOS via een RSS-feed en toont deze in een overzichtelijke lijst. <br>
+                        Je kan op een nieuwsbericht klikken om meer details te zien.
                     </p>
 					<a class="btn btn-outline-primary" href="index.php">Terug naar home</a>
 				</div>
